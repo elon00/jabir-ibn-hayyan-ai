@@ -1,0 +1,14 @@
+{
+  "project": "jabir-ibn-hayyan-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "GxN5iwPbsJ1Mg7DFzBP4wAJ9uJZiFE5nCH65YyhaCAA4",
+  "vault_account": "E4skoCkzfiwCBYwy8EjULQaVcydkHGspZeKV4MoPz9cG",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "51n1T6jtJKUxCqDQnsevFAzhMmyx8B27qrQaMkhQng1GB5c2B5KAN8ReMoLvvjernsqgY85XBfHkL1m4VNDEUuJJ",
+  "account_tx": "3cd19EVTpAnZwWJ8FpUHvYBAKUgmiJ3C3uGzwmrMFwNwCeR6yRpEzwZvvg2uDjy6kAEAoj3JhS1vfp7uNYaMcgDx",
+  "mint_tx": "4eBUTHEfvAi1mHir2C4pLH4x4awDSUoU6xrwsbVepwRWu9ZcXNdQ56f2Sw7at64RvRrfmgEFW8sovu7w3GNgz9Mm",
+  "solana_explorer_mint": "https://explorer.solana.com/address/GxN5iwPbsJ1Mg7DFzBP4wAJ9uJZiFE5nCH65YyhaCAA4?cluster=devnet",
+  "timestamp": "2026-10-26 16:42:27 UTC"
+}
